@@ -1,0 +1,2 @@
+Patient ID: 1 , Patient name: Sahil , Patient age: 19 , Patient phone number: 1234567890 , Patient Gender: M , Patient health issue: 123 , Patient Bill : 0.0 , Prescription: null
+Patient ID: 2 , Patient name: Shuita , Patient age: 21 , Patient phone number: 3322830796 , Patient Gender: female , Patient health issue: rashes , Patient Bill : 0.0 , Prescription: null
